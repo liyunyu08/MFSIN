@@ -4,8 +4,8 @@
 ## :heavy_check_mark: Requirements
 * Ubuntu 16.04
 * Python 3.7
-* [CUDA 11.0](https://developer.nvidia.com/cuda-toolkit)
-* [PyTorch 1.7.1](https://pytorch.org)
+* [CUDA 12.1](https://developer.nvidia.com/cuda-toolkit)
+* [PyTorch 1.12.0](https://pytorch.org)
 
 ## :books: Datasets
 ```bash
