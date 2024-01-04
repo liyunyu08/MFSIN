@@ -7,8 +7,6 @@
 * [CUDA 11.0](https://developer.nvidia.com/cuda-toolkit)
 * [PyTorch 1.7.1](https://pytorch.org)
 
-
-
 ## :books: Datasets
 ```bash
 cd datasets
@@ -24,15 +22,13 @@ bash download_checkpoints_renet.sh
 The file structure should be as follows:
 
     
-    renet/
+    MFSIN/
     ├── datasets/
     ├── model/
     ├── scripts/
     ├── checkpoints/
-    │   ├── cifar_fs/
     │   ├── cub/
-    │   ├── miniimagenet/
-    │   └── tieredimagenet/
+
     train.py
     test.py
     README.md
@@ -40,9 +36,3 @@ The file structure should be as follows:
     
     
   
-## :mag: Related repos
-Our project references the codes in the following repos:
-
-* Zhang _et al_., [DeepEMD](https://github.com/icoz69/DeepEMD).
-* Ye _et al_., [FEAT](https://github.com/Sha-Lab/FEAT)
-
