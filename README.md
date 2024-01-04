@@ -1,1 +1,1 @@
-# Multi-Scale-Feature-Selection-and-Interaction-Network-MFSIN
+# Multi-Scale-Feature-Selection-and-Interaction-Network
