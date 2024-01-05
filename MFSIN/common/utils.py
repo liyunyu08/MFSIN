@@ -231,7 +231,7 @@ def parse_args(arg_mode):
 
     ''' about dataset '''
     parser.add_argument('-dataset', type=str, default='cub',  choices=['cars','dogs', 'cub'])
-    parser.add_argument('-data_dir', type=str, default='/home/tan_jl/workspace/renet/datasets', help='dir of datasets')
+    parser.add_argument('-data_dir', type=str, default='/your/datasets', help='dir of datasets')
     parser.add_argument('-step_size', type=int, default=10)
 
     ''' about training specs '''
