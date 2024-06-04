@@ -62,7 +62,7 @@ def train(epoch, model, loader, optimizer, args=None):
         sele_local_query1 = model(local_query1)
         sele_local_shot1, sele_local_query1 = local_shape(sele_local_shot1, sele_local_query1)
 
-        model.module.mode = 'msfn-2'
+        model.module.mode = 'msfn2'
         glo_shot2= model(data_shot2)
         glo_query2 = model(data_query2)
         sele_local_shot2 = model(local_shot2)
