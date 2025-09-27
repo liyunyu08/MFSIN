@@ -24,4 +24,7 @@ Stanford Cars: [Dataset Page](https://drive.google.com/file/d/1ImEPQH5gHpSE_Mlq8
 CUB_200_2011: [Dataset Page](https://www.vision.caltech.edu/datasets/cub_200_2011/)
 
 ### Train
-Running the shell script ```run.sh``` will train and evaluate the model with hyperparameters matching our paper.
+Running the shell script ```train.sh``` will train the model with hyperparameters matching our paper.
+
+### Train
+Running the shell script ```test.sh``` will evaluate the model with hyperparameters matching our paper.
