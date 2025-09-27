@@ -6,5 +6,14 @@
 * [CUDA 12.1](https://developer.nvidia.com/cuda-toolkit)
 * [PyTorch 1.12.0](https://pytorch.org)
 
-   
+## Data Preparation
   
+The following datasets are used in our paper:
+
+UC Merced Land Use Dataset: [Dataset Page](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
+
+Stanford Dogs: [Dataset Page](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+
+Stanford Cars: [Dataset Page](https://drive.google.com/file/d/1ImEPQH5gHpSE_Mlq8bRvxxcUXOwdHIeF/view)
+
+CUB_200_2011: [Dataset Page](https://www.vision.caltech.edu/datasets/cub_200_2011/)
