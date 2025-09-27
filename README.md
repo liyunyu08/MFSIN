@@ -21,3 +21,6 @@ Stanford Dogs: [Dataset Page](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 Stanford Cars: [Dataset Page](https://drive.google.com/file/d/1ImEPQH5gHpSE_Mlq8bRvxxcUXOwdHIeF/view)
 
 CUB_200_2011: [Dataset Page](https://www.vision.caltech.edu/datasets/cub_200_2011/)
+
+### Train
+Running the shell script ```run.sh``` will train and evaluate the model with hyperparameters matching our paper.
