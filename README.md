@@ -26,5 +26,5 @@ CUB_200_2011: [Dataset Page](https://www.vision.caltech.edu/datasets/cub_200_201
 ### Train
 Running the shell script ```train.sh``` will train the model with hyperparameters matching our paper.
 
-### Train
+### Test
 Running the shell script ```test.sh``` will evaluate the model with hyperparameters matching our paper.
