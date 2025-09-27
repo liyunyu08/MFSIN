@@ -1,5 +1,5 @@
 # Multi-Scale-Feature-Selection-and-Interaction-Network
-![Alt text](./figure/model_overall.png)
+![Alt text](./model_overall.png)
 
 ## :heavy_check_mark: Requirements
 * Ubuntu 16.04
