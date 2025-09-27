@@ -10,7 +10,11 @@
   
 The following datasets are used in our paper:
 
-UC Merced Land Use Dataset: [Dataset Page](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
+UC Merced Land: [Dataset Page](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
+
+WHU-RS19：[Dataset Page](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html)
+
+AID：[Dataset Page](https://captain-whu.github.io/AID/)
 
 Stanford Dogs: [Dataset Page](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
